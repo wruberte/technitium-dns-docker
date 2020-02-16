@@ -2,7 +2,7 @@
 
 Simple and sweet, even includes a healthcheck. Works great on a Raspberry Pi, too!
 
-[](media/dashboard.png)
+![](https://raw.githubusercontent.com/sjkp/technitium-dns-docker/master/media/dashboard.png)
 
 ## Usage
 
@@ -20,7 +20,7 @@ docker run \
 ## Running on Ubuntu on vultr. 
 
 ### Firewall rules
-[](media/firewall-rules.png)
+![](https://raw.githubusercontent.com/sjkp/technitium-dns-docker/master/media/firewall-setup.png)
 
 ### Install docker
 ```
@@ -37,9 +37,9 @@ Status: inactive
 
 Enable recursive resolver, or the DNS server will not be usable from other machines. Beware that vultr will send you email warnings that you have a recursive DNS resolver running. 
 
-[](media/enable-recursive-resolver.png)
+![](https://raw.githubusercontent.com/sjkp/technitium-dns-docker/master/media/enable-recursive-resolver.png)
 
 
 Configure the dns forwarder to which ever technology and provider you like
 
-[](media/set-dns-forwarder.png)
+![](https://raw.githubusercontent.com/sjkp/technitium-dns-docker/master/media/set-dns-forwarder.png)
