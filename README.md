@@ -14,3 +14,7 @@ docker run \
 -p 53/53/udp \
 -v [path]:/app/config
 ~~~
+
+Running on Ubuntu on vultr. 
+
+Firewall rules
