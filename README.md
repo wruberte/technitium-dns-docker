@@ -1,4 +1,4 @@
-# Unofficial Docker container for [Technitium DNS Server](https://github.com/TechnitiumSoftware/DnsServer)
+# Docker Container for running [Technitium DNS Server](https://github.com/TechnitiumSoftware/DnsServer)
 
 Simple and sweet, even includes a healthcheck. Works great on a Raspberry Pi, too!
 
